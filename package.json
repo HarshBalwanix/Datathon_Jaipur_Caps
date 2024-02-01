@@ -1,0 +1,47 @@
+{
+  "name": "police-feedback",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-tabs": "^1.0.4",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "dotenv": "^16.3.1",
+    "firebase": "^10.7.1",
+    "i18next": "^23.7.16",
+    "i18next-browser-languagedetector": "^7.2.0",
+    "i18next-resources-to-backend": "^1.2.0",
+    "lucide-react": "^0.309.0",
+    "next": "^14.0.4",
+    "next-i18n-router": "^5.2.0",
+    "next-i18next": "^15.2.0",
+    "react": "^18",
+    "react-auth-kit": "^3.0.2-alpha.14",
+    "react-dom": "^18",
+    "react-flatpickr": "^3.10.13",
+    "react-i18next": "^14.0.0",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^6.21.1",
+    "react-scripts": "^5.0.1",
+    "react-select": "^5.8.0",
+    "react-simple-chatbot": "^0.6.1",
+    "react-simple-star-rating": "^5.1.7",
+    "styled-components": "^4.4.1",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7",
+    "translate": "^2.0.2",
+    "twilio": "^5.0.0-rc.1",
+    "web-vitals": "^3.5.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
